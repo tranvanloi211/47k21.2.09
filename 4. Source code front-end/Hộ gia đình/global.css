@@ -1,0 +1,100 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --tremor-title: Inter;
+  --font-roboto: Roboto;
+  --font-inherit: inherit;
+
+  /* font sizes */
+  --font-size-4xl: 23px;
+  --tremor-title-size: 18px;
+  --font-size-9xl: 28px;
+  --font-size-mid: 17px;
+  --font-size-mini: 15px;
+  --font-size-sm: 14px;
+  --font-size-11xl: 30px;
+  --font-size-5xl: 24px;
+  --font-size-base: 16px;
+  --font-size-smi: 13px;
+  --font-size-xl: 20px;
+  --font-size-12xs: 1px;
+  --font-size-15xl: 34px;
+  --tremor-chart-axis-size: 12px;
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-silver-100: #c8c7cc;
+  --default-systemgray-03-light: #c7c7cc;
+  --label-color-light-primary: #000;
+  --color-orange: #fbbc05;
+  --color-darkgray: #9e9898;
+  --color-darkgray-100: rgba(153, 153, 153, 0.5);
+  --color-goldenrod: #efac46;
+  --color-border: #cccdce;
+  --color-body: #6a6c71;
+  --color-dimgray-300: #666;
+  --color-dimgray-200: #656565;
+  --color-dimgray-100: #636366;
+  --color-darkslategray-300: #3d4260;
+  --gray-700: #374151;
+  --color-darkslategray-200: #242e42;
+  --color-primary: #2a2d34;
+  --color-darkslategray-100: rgba(41, 45, 50, 0.83);
+  --color-teal: #2a746e;
+  --color-teal-100: rgba(42, 116, 110, 0.5);
+  --color-whitesmoke: #ececec;
+  --color-text: #252525;
+  --color-gray-100: #161616;
+  --color-gray-300: #080a24;
+  --color-gray-200: rgba(22, 22, 22, 0.9);
+  --gray-400: #a0aec0;
+  --red-500: #df1818;
+  --gray-200: #e4e6ea;
+  --color-gainsboro: #d9d9d9;
+  --gray-500: #6b7280;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-5xl: 24px;
+  --gap-base: 16px;
+  --gap-3xs: 10px;
+  --gap-xs: 12px;
+  --gap-xl: 20px;
+
+  /* Paddings */
+  --padding-base: 16px;
+  --padding-9xs: 4px;
+  --padding-13xl: 32px;
+  --padding-5xl: 24px;
+  --padding-smi: 13px;
+  --padding-xl: 20px;
+  --padding-sm: 14px;
+  --padding-5xs: 8px;
+  --padding-4xs: 9px;
+  --padding-mid: 17px;
+
+  /* border radiuses */
+  --br-11xl: 30px;
+  --br-lg: 18px;
+  --br-69xl: 88px;
+  --br-base: 16px;
+  --br-5xs: 8px;
+  --br-81xl: 100px;
+  --br-11xs-3: 1.3px;
+  --br-10xs-7: 2.7px;
+  --br-9980xl: 9999px;
+  --br-3xs: 10px;
+  --br-21xl: 40px;
+  --br-8xs: 5px;
+  --br-11xs: 2px;
+  --br-26xl: 45px;
+
+  /* Effects */
+  --shadow-sm: 0px 1px 2px rgba(0, 0, 0, 0.05);
+}

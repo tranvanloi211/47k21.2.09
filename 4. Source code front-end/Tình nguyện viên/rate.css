@@ -1,0 +1,391 @@
+.background-icon,
+.button-child {
+  position: absolute;
+  height: 86.95%;
+  width: 100.27%;
+  top: 13.05%;
+  right: -0.27%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.button-child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+}
+.xc-nhn {
+  position: absolute;
+  top: 31.25%;
+  left: 40.59%;
+}
+.button,
+.qung-ng {
+  position: absolute;
+  left: 9.6%;
+}
+.button {
+  height: 7.88%;
+  width: 80.8%;
+  top: 89.16%;
+  right: 9.6%;
+  bottom: 2.96%;
+  font-size: var(--font-size-base);
+}
+.qung-ng {
+  top: 0;
+  font-size: var(--tremor-title-size);
+  font-weight: 600;
+  color: var(--color-gray-200);
+}
+.trip-detail-child {
+  position: absolute;
+  height: 37.09%;
+  width: 100%;
+  top: 26.49%;
+  right: 0;
+  bottom: 36.42%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.skate-park {
+  position: absolute;
+  top: 39.07%;
+  left: 19.47%;
+  font-weight: 500;
+}
+.trip-detail-item {
+  position: absolute;
+  height: 37.09%;
+  width: 100%;
+  top: 62.91%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.home {
+  position: absolute;
+  top: 75.52%;
+  left: 19.47%;
+  font-weight: 500;
+}
+.ic-pin-icon,
+.line-icon,
+.trip-detail-inner {
+  position: absolute;
+  height: 15.89%;
+  width: 4.92%;
+  top: 73.51%;
+  right: 84.68%;
+  bottom: 10.6%;
+  left: 10.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.line-icon,
+.trip-detail-inner {
+  width: 6.4%;
+  top: 37.09%;
+  right: 84%;
+  bottom: 47.02%;
+  left: 9.6%;
+}
+.line-icon {
+  height: 22.24%;
+  width: 0.53%;
+  top: 53.45%;
+  right: 86.87%;
+  bottom: 24.31%;
+  left: 12.59%;
+}
+.driver-child,
+.trip-detail {
+  position: absolute;
+  height: 18.6%;
+  width: 100%;
+  top: 50.12%;
+  right: 0;
+  bottom: 31.28%;
+  left: 0;
+}
+.driver-child {
+  height: 88.16%;
+  width: 13.75%;
+  top: 3.71%;
+  right: 86.25%;
+  bottom: 8.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.ben-stokes {
+  position: absolute;
+  top: 0;
+  left: 17.87%;
+  font-weight: 500;
+}
+.driver-item,
+.shape-icon {
+  position: absolute;
+  height: 39.67%;
+  width: 6.19%;
+  top: 28.77%;
+  right: 0;
+  bottom: 31.55%;
+  left: 93.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.shape-icon {
+  height: 35.27%;
+  width: 5.5%;
+  top: 55.91%;
+  right: 76.63%;
+  bottom: 8.82%;
+  left: 17.87%;
+}
+.div14,
+.driver {
+  position: absolute;
+  top: 53.71%;
+  left: 25.09%;
+  font-size: var(--font-size-sm);
+  color: var(--color-silver-100);
+}
+.driver {
+  height: 5.59%;
+  width: 77.6%;
+  top: 16.33%;
+  right: 12.8%;
+  bottom: 78.08%;
+  left: 9.6%;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+}
+.nh-minh-chng {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.payment-detail {
+  position: absolute;
+  height: 3.33%;
+  width: 40.8%;
+  top: 69.58%;
+  right: 49.6%;
+  bottom: 27.09%;
+  left: 9.6%;
+  font-size: var(--tremor-title-size);
+  color: var(--color-gray-200);
+}
+.text-box-child {
+  position: absolute;
+  height: 100.55%;
+  width: 100.33%;
+  top: -0.27%;
+  right: -0.17%;
+  bottom: -0.27%;
+  left: -0.17%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bn-hy-vit {
+  position: absolute;
+  top: 8.24%;
+  left: 6.27%;
+}
+.how-your-trip,
+.text-box {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.how-your-trip {
+  height: 22.41%;
+  width: 80.8%;
+  top: 25.12%;
+  right: 12%;
+  bottom: 52.46%;
+  left: 7.2%;
+  color: var(--color-dimgray-100);
+}
+.giao {
+  position: absolute;
+  top: 10%;
+  left: 0;
+  font-weight: 600;
+}
+.close-icon {
+  position: absolute;
+  height: 100%;
+  width: 19.42%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 80.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.header1 {
+  position: absolute;
+  height: 4.93%;
+  width: 54.93%;
+  top: 6.03%;
+  right: 9.87%;
+  bottom: 89.04%;
+  left: 35.2%;
+  font-size: var(--font-size-5xl);
+  color: var(--grayscale-white);
+}
+.nh1-2-icon,
+.rate-child {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.nh1-2-icon {
+  height: 14.29%;
+  width: 73.6%;
+  top: 73.77%;
+  right: 13.6%;
+  bottom: 11.95%;
+  left: 12.8%;
+  object-fit: cover;
+}
+.rate-child {
+  height: 7.04%;
+  width: 13.6%;
+  top: 4.56%;
+  right: 79.74%;
+  bottom: 88.4%;
+  left: 6.67%;
+}
+.border4,
+.cap-icon4 {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border4 {
+  height: 100%;
+  width: 90.43%;
+  top: 0;
+  right: 9.57%;
+  bottom: 0;
+  left: 0;
+  border-radius: 2.67px;
+  border: 1px solid var(--grayscale-white);
+  box-sizing: border-box;
+  opacity: 0.35;
+}
+.cap-icon4 {
+  height: 35.29%;
+  width: 5.46%;
+  top: 32.35%;
+  right: 0;
+  bottom: 32.35%;
+  left: 94.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.4;
+}
+.capacity4 {
+  position: absolute;
+  height: 64.71%;
+  width: 73.99%;
+  top: 17.65%;
+  right: 17.79%;
+  bottom: 17.65%;
+  left: 8.22%;
+  border-radius: 1.33px;
+  background-color: var(--grayscale-white);
+}
+.battery4 {
+  position: absolute;
+  height: 25.76%;
+  width: 6.49%;
+  top: 39.39%;
+  right: 3.91%;
+  bottom: 34.85%;
+  left: 89.6%;
+}
+.wifi-icon4 {
+  position: absolute;
+  width: 15.27px;
+  height: 10.97px;
+  top: 39.39%;
+  right: 13%;
+}
+.cellular-connection-icon4 {
+  position: absolute;
+  width: 17px;
+  height: 10.67px;
+  top: 39.39%;
+  right: 20%;
+}
+.span4 {
+  letter-spacing: -0.28px;
+}
+.time4 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 7.5px);
+  left: 0;
+  font-weight: 900;
+  display: inline-block;
+}
+.time-style4 {
+  position: absolute;
+  top: 13px;
+  left: 21px;
+  width: 54px;
+  height: 21px;
+}
+.iphone-xstatus-barsstatus-ba8,
+.rate {
+  border-radius: var(--br-11xl);
+  width: 100%;
+}
+.iphone-xstatus-barsstatus-ba8 {
+  position: absolute;
+  height: 5.42%;
+  top: 0.37%;
+  right: -0.27%;
+  bottom: 94.21%;
+  left: 0.27%;
+  text-align: center;
+  color: var(--grayscale-white);
+}
+.rate {
+  position: absolute;
+  width: 375px;
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--default-color-black);
+  font-family: var(--font-poppins);
+  display: none;
+}
+.rate.open{
+  display: flex;
+}

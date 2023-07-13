@@ -1,0 +1,352 @@
+.my-carbon-footprint2 {
+  position: absolute;
+  top: 13px;
+  left: 97.5px;
+  line-height: 100%;
+  font-weight: 500;
+}
+.frame-child2,
+.my-carbon-footprint-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 44px;
+  height: 44px;
+}
+.my-carbon-footprint-container {
+  top: 44px;
+  width: 375px;
+  display: none;
+  font-size: var(--tremor-title-size);
+}
+.home-indicator6 {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 66.5px);
+  border-radius: var(--br-81xl);
+  background-color: var(--label-color-light-primary);
+  width: 134px;
+  height: 5px;
+}
+.homeindicator6,
+.my-profile-child {
+  position: absolute;
+  top: 778px;
+  left: 0;
+  width: 375px;
+  height: 34px;
+}
+.my-profile-child {
+  top: 202.2px;
+  border-radius: var(--br-21xl) var(--br-21xl) 0 0;
+  background-color: var(--color-white);
+  height: 609.8px;
+}
+.duy2 {
+  position: absolute;
+  top: 281px;
+  left: 143px;
+  font-size: var(--font-size-11xl);
+  line-height: 100%;
+  font-weight: 600;
+}
+.cp-nht-thng2,
+.profile-circle-icon1 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.cp-nht-thng2 {
+  line-height: 120%;
+  font-weight: 500;
+  display: inline-block;
+  width: 272px;
+  height: 18px;
+  flex-shrink: 0;
+}
+.arrow-right-s-line-icon2 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.profile-circle-group {
+  border-bottom: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 345px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xl) 0;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.i-mt-khu3 {
+  position: relative;
+  line-height: 120%;
+  font-weight: 500;
+  display: inline-block;
+  width: 270px;
+  flex-shrink: 0;
+}
+.sms-notification-group {
+  align-self: stretch;
+  border-bottom: 1px solid var(--color-whitesmoke);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xl) 0;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.frame-parent7,
+.my-profile-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent7 {
+  align-self: stretch;
+}
+.my-profile-inner {
+  position: absolute;
+  top: 330px;
+  left: 0;
+  width: 375px;
+  height: 235px;
+  padding: 0 var(--padding-base);
+  box-sizing: border-box;
+  text-align: left;
+  color: var(--color-gray-100);
+}
+.label10 {
+  position: relative;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+}
+.button4 {
+  position: absolute;
+  top: 608px;
+  left: 17px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-goldenrod);
+  width: 343px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-smi) var(--padding-xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-mid);
+  color: var(--label-color-light-primary);
+}
+.xa-ti-khon {
+  position: relative;
+  line-height: 120%;
+  font-weight: 500;
+}
+.xa-ti-khon-wrapper {
+  position: absolute;
+  top: 653px;
+  left: 16px;
+  width: 343px;
+  height: 48px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  color: var(--red-500);
+}
+.title-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-teal);
+  width: 375px;
+  height: 72px;
+}
+.title-child3 {
+  height: 65.59%;
+  width: 13.6%;
+  top: 34.41%;
+  right: 83.25%;
+  bottom: 0;
+  left: 3.16%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.title-child3,
+.title8,
+.title9 {
+  position: absolute;
+}
+.title9 {
+  top: 42px;
+  left: 113px;
+  display: inline-block;
+  width: 139px;
+}
+.title8 {
+  top: 7px;
+  left: 0;
+  width: 375px;
+  height: 87.18px;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-white);
+}
+.my-profile-item,
+.navigation-icon2 {
+  position: absolute;
+  top: 712px;
+  left: 10px;
+  width: 358px;
+  height: 83px;
+}
+.my-profile-item {
+  top: 101.54px;
+  left: 96.53px;
+  width: 155.01px;
+  height: 155.01px;
+  object-fit: cover;
+}
+.iocamera-icon3 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.iocamera-wrapper1 {
+  position: absolute;
+  top: 214px;
+  left: 213px;
+  border-radius: var(--br-69xl);
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-9xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.border6,
+.cap-icon6 {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border6 {
+  height: 100%;
+  width: 90.43%;
+  top: 0;
+  right: 9.57%;
+  bottom: 0;
+  left: 0;
+  border-radius: 2.67px;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  opacity: 0.35;
+}
+.cap-icon6 {
+  height: 35.29%;
+  width: 5.46%;
+  top: 32.35%;
+  right: 0;
+  bottom: 32.35%;
+  left: 94.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.4;
+}
+.capacity6 {
+  position: absolute;
+  height: 64.71%;
+  width: 73.99%;
+  top: 17.65%;
+  right: 17.79%;
+  bottom: 17.65%;
+  left: 8.22%;
+  border-radius: 1.33px;
+  background-color: var(--color-white);
+}
+.battery6 {
+  position: absolute;
+  height: 25.76%;
+  width: 6.49%;
+  top: 39.39%;
+  right: 3.91%;
+  bottom: 34.85%;
+  left: 89.6%;
+}
+.wifi-icon6 {
+  position: absolute;
+  width: 15.27px;
+  height: 10.97px;
+  top: 39.39%;
+  right: 13%;
+}
+.cellular-connection-icon6 {
+  position: absolute;
+  width: 17px;
+  height: 10.67px;
+  top: 39.39%;
+  right: 20%;
+}
+.span6 {
+  letter-spacing: -0.28px;
+}
+.time7 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 7.5px);
+  left: 0;
+  font-weight: 900;
+  display: inline-block;
+}
+.time-style6 {
+  position: absolute;
+  top: 13px;
+  left: 21px;
+  width: 54px;
+  height: 21px;
+}
+.iphone-xstatus-barsstatus-ba12,
+.iphone-xstatus-barsstatus-ba13 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.iphone-xstatus-barsstatus-ba12 {
+  height: 5.42%;
+  right: 1.33%;
+  bottom: 94.58%;
+  left: -1.33%;
+  border-radius: var(--br-11xl);
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.my-profile {
+  position: absolute;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-teal);
+  width: 375px;
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-text);
+  font-family: var(--font-poppins);
+  display: none;
+}
+
+.my-profile.open{
+  display: flex;
+}

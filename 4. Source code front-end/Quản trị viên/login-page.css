@@ -1,0 +1,182 @@
+.login-page .frame-child225 {
+  position: relative;
+  background-color: var(--color-teal);
+  width: 106px;
+  height: 5px;
+}
+.login-page .rectangle-parent11 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.login-page .cho-mng-n {
+  position: relative;
+  line-height: 28px;
+}
+.login-page .frame-child227 {
+  align-self: stretch;
+  position: relative;
+  background-color: var(--default-color-black);
+  height: 5px;
+}
+.login-page .frame-parent23 {
+  width: 576px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+}
+.login-page .enter-username,
+.icons55 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.login-page .enter-username {
+  line-height: 23px;
+  display: inline-block;
+  width: 154px;
+  height: 19px;
+  flex-shrink: 0;
+}
+.login-page .password {
+  border-radius: var(--br-8xs);
+  background-color: var(--grayscale-white);
+  box-shadow: 0 0 10px #2a746e;
+  border: 1px solid var(--color-teal);
+  box-sizing: border-box;
+  width: 450px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-mini);
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.login-page .password input
+{
+  font-size: 20px;
+  font-family: poppin;
+  border: none;
+}
+.login-page .frame-wrapper,
+.username-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.login-page .username-parent {
+  align-items: flex-start;
+  gap: var(--gap-11xl);
+}
+.login-page .frame-wrapper {
+  align-items: center;
+}
+.login-page .login {
+  position: relative;
+  line-height: 28px;
+  font-weight: 600;
+}
+.login-page .login-button {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-teal);
+  box-shadow: 0 0 10px rgba(223, 18, 41, 0.4);
+  width: 300px;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-5xl);
+  color: var(--grayscale-white);
+}
+.login-page .frame-parent24 {
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+  font-size: var(--font-size-xl);
+  color: var(--secondary-color-secondry);
+}
+.login-page .frame-parent22,
+.frame-parent24,
+.login-page-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.login-page .frame-parent22 {
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.login-page .login-page-inner {
+  position: absolute;
+  top: 230px;
+  left: 432px;
+  border-radius: var(--br-6xl) 0 var(--br-6xl) 0;
+  background-color: var(--secondary-color-secondary-light);
+  box-shadow: 5px 5px 0#000;
+  overflow: hidden;
+  padding: var(--padding-11xl) 0;
+  justify-content: center;
+}
+.login-page .vuesaxlinearbezier-icon12 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  display: none;
+}
+.login-page .bezier12 {
+  position: relative;
+  line-height: 32px;
+  font-weight: 600;
+  background: linear-gradient(99.32deg, #b4cd93, #427a5b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.login-page .vuesaxlinearbezier-parent10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xs);
+}
+.login-page .group-child22 {
+  position: absolute;
+  height: 63.83%;
+  width: 41.12%;
+  top: 36.17%;
+  right: 29.85%;
+  bottom: 0;
+  left: 29.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.login-page .instance-parent10 {
+  position: absolute;
+  top: 99px;
+  left: 658px;
+  width: 124px;
+  height: 94px;
+  font-family: var(--font-manrope);
+}
+.login-page {
+  position: absolute;
+  background-color: var(--grayscale-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--default-color-black);
+  font-family: var(--font-poppins);
+}

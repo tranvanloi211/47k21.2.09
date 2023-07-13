@@ -1,0 +1,299 @@
+.to-h-s-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-teal);
+  width: 379px;
+  height: 378px;
+}
+.border2,
+.cap-icon2 {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border2 {
+  height: 100%;
+  width: 90.43%;
+  top: 0;
+  right: 9.57%;
+  bottom: 0;
+  left: 0;
+  border-radius: 2.67px;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  opacity: 0.35;
+}
+.cap-icon2 {
+  height: 35.29%;
+  width: 5.46%;
+  top: 32.35%;
+  right: 0;
+  bottom: 32.35%;
+  left: 94.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.4;
+}
+.capacity2 {
+  position: absolute;
+  height: 64.71%;
+  width: 73.99%;
+  top: 17.65%;
+  right: 17.79%;
+  bottom: 17.65%;
+  left: 8.22%;
+  border-radius: 1.33px;
+  background-color: var(--color-white);
+}
+.battery2 {
+  position: absolute;
+  height: 25.76%;
+  width: 6.49%;
+  top: 39.39%;
+  right: 3.91%;
+  bottom: 34.85%;
+  left: 89.6%;
+}
+.wifi-icon2 {
+  position: absolute;
+  width: 15.11px;
+  height: 10.97px;
+  top: 39.39%;
+  right: 13%;
+}
+.cellular-connection-icon2 {
+  position: absolute;
+  width: 16.82px;
+  height: 10.67px;
+  top: 39.39%;
+  right: 20%;
+}
+.span2 {
+  letter-spacing: -0.28px;
+}
+.time2 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 7.5px);
+  left: 0;
+  font-weight: 900;
+  display: inline-block;
+}
+.time-style2 {
+  position: absolute;
+  top: 13px;
+  left: 21px;
+  width: 54px;
+  height: 21px;
+}
+.iphone-xstatus-barsstatus-ba4,
+.iphone-xstatus-barsstatus-ba5 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.iphone-xstatus-barsstatus-ba4 {
+  height: 5.42%;
+  bottom: 94.58%;
+}
+.home-indicator3 {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 66.5px);
+  border-radius: var(--br-81xl);
+  background-color: var(--label-color-light-primary);
+  width: 134px;
+  height: 5px;
+}
+.homeindicator3 {
+  position: absolute;
+  top: 778px;
+  left: 0;
+  width: 375px;
+  height: 34px;
+}
+.remember-me3 {
+  position: relative;
+  font-weight: 500;
+}
+.label4 {
+  flex: 1;
+  position: relative;
+  line-height: 20px;
+}
+.left-content3 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-base) var(--padding-sm) 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.sf-symbol-xmarkcirclefill1 {
+  position: relative;
+  width: 17px;
+  height: 17px;
+}
+.close-button1,
+.content3 {
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.close-button1 {
+  display: none;
+  padding: 0 var(--padding-base) 0 0;
+  align-items: flex-start;
+}
+.content3 {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  gap: var(--gap-5xs);
+}
+.email1,
+.remember-me-parent1 {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.email1 {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-border);
+  display: flex;
+  padding: 0 0 0 var(--padding-base);
+  justify-content: flex-start;
+  font-size: var(--font-size-mini);
+  color: var(--color-body);
+}
+.remember-me-parent1 {
+  gap: var(--gap-5xs);
+}
+.content4,
+.frame-div,
+.remember-me-parent1 {
+  display: flex;
+  justify-content: flex-start;
+}
+.content4 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+}
+.frame-div {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xl);
+}
+.frame-div,
+.text-fields-item,
+.text-fields1 {
+  align-self: stretch;
+}
+.text-fields1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.label7 {
+  position: relative;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+}
+.login-btn1 {
+  align-self: stretch;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-goldenrod);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-smi) var(--padding-xl);
+  align-items: center;
+  justify-content: center;
+}
+.login-btn-container,
+.text-fields-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.login-btn-container {
+  align-self: stretch;
+  text-align: center;
+  font-size: var(--font-size-mid);
+  color: var(--label-color-light-primary);
+}
+.text-fields-group {
+  position: absolute;
+  top: 297px;
+  left: 16px;
+  border-radius: var(--br-base);
+  background-color: var(--color-white);
+  box-shadow: 0 15px 32px rgba(0, 0, 0, 0.12);
+  width: 343px;
+  padding: var(--padding-13xl) var(--padding-5xl);
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  text-align: left;
+  color: var(--color-primary);
+}
+.title3 {
+  position: absolute;
+  top: 44px;
+  left: calc(50% - 68.5px);
+  font-size: var(--font-size-9xl);
+  letter-spacing: 0.39px;
+}
+.iocamera-icon2,
+.union-icon1 {
+  position: relative;
+  width: 161.31px;
+  height: 161.31px;
+}
+
+.union-icon1{
+  top: 111px;
+  left: 108px;
+}
+.iocamera-icon2 {
+  width: 24px;
+  height: 24px;
+}
+.iocamera-frame,
+.to-h-s {
+  background-color: var(--color-white);
+}
+.iocamera-frame {
+  position: absolute;
+  top: 225px;
+  left: 225px;
+  border-radius: var(--br-69xl);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-9xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.to-h-s {
+  position: absolute;
+  border-radius: var(--br-11xl);
+  width: 375px;
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+  display: none;
+}
+
+.to-h-s.open{
+  display: flex;
+}

@@ -1,0 +1,217 @@
+.iconssystemstatus-barbatter {
+  position: absolute;
+  top: calc(50% - 6.87px);
+  right: 2.8px;
+  width: 29.87px;
+  height: 13.07px;
+}
+.time6 {
+  position: absolute;
+  top: 10.71%;
+  left: calc(50% - 169px);
+  line-height: 14.93px;
+  display: inline-block;
+  width: 63.47px;
+}
+.iconssystemstatus-barscreen {
+  position: absolute;
+  top: 2.8px;
+  left: 168px;
+  width: 13.07px;
+  height: 13.07px;
+  display: none;
+}
+.iconssystemstatus-barsignal {
+  position: absolute;
+  top: 2.8px;
+  left: 3.73px;
+  width: 19.6px;
+  height: 13.07px;
+}
+.full-bars-icon {
+  position: absolute;
+  width: 11.2px;
+  height: 7.47px;
+  top: 2.8px;
+  left: 78%;
+}
+.iconssystemstatus-barwifi {
+  position: absolute;
+  top: calc(50% - 7.33px);
+  left: 297px;
+  width: 14px;
+  height: 13.07px;
+}
+.status-bars-iphone8status-b {
+  position: absolute;
+  height: 2.3%;
+  width: 93.33%;
+  top: 2.34%;
+  right: 2.93%;
+  bottom: 95.36%;
+  left: 3.73%;
+  text-align: center;
+  font-size: 11.2px;
+  color: var(--color-white);
+}
+.i-mt-khu-child {
+  position: absolute;
+  height: 1.68%;
+  width: 3.64%;
+  top: 9.56%;
+  right: 91.29%;
+  bottom: 88.75%;
+  left: 5.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child1 {
+  position: absolute;
+  height: 65.79%;
+  width: 100%;
+  top: 34.21%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+}
+.mt-khu {
+  position: relative;
+}
+.mt-khu-wrapper {
+  position: absolute;
+  top: 31px;
+  left: 14px;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.nhp-mt-khu {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  color: var(--color-white);
+}
+.eye-off-icon {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.close-button2 {
+  position: absolute;
+  top: 42px;
+  left: 298px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-base) 0 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-container {
+  position: absolute;
+  height: 9.36%;
+  width: 89.33%;
+  top: 13.67%;
+  right: 5.33%;
+  bottom: 76.97%;
+  left: 5.33%;
+}
+.close-button3,
+.mt-khu1 {
+  position: absolute;
+  top: 41px;
+  left: 23px;
+}
+.close-button3 {
+  left: 297px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-base) 0 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent1 {
+  position: absolute;
+  height: 9.36%;
+  width: 89.33%;
+  top: 25%;
+  right: 5.33%;
+  bottom: 65.64%;
+  left: 5.33%;
+}
+.close-button4 {
+  position: absolute;
+  top: 41px;
+  left: 296px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-base) 0 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent2 {
+  position: absolute;
+  height: 9.36%;
+  width: 89.33%;
+  top: 36.95%;
+  right: 5.07%;
+  bottom: 53.69%;
+  left: 5.6%;
+}
+.button-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: #fdcd03;
+  width: 335px;
+  height: 50px;
+}
+.lu {
+  position: absolute;
+  top: 17px;
+  left: 152px;
+}
+.button3,
+.i-mt-khu2 {
+  position: absolute;
+  top: 407px;
+  left: 20px;
+  width: 335px;
+  height: 50px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-roboto);
+}
+.i-mt-khu2 {
+  top: 69px;
+  left: 52px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  color: var(--color-white);
+  width: 239px;
+  height: 29px;
+}
+.i-mt-khu1 {
+  position: absolute;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-teal);
+  width: 375px;
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--label-color-light-primary);
+  font-family: var(--font-poppins);
+  display: none;
+}
+
+.i-mt-khu1.open{
+  display: flex;
+}

@@ -1,0 +1,228 @@
+.chp-nh-mt-trc-child,
+.th-1-icon3 {
+  position: absolute;
+  left: 0;
+  width: 375px;
+}
+.th-1-icon3 {
+  top: 32px;
+  height: 707px;
+  object-fit: cover;
+}
+.chp-nh-mt-trc-child {
+  top: 29px;
+  background-color: var(--color-darkslategray-100);
+  height: 710px;
+}
+.path-15-icon3 {
+  position: absolute;
+  height: 1.85%;
+  width: 4%;
+  top: 8.37%;
+  right: 4.8%;
+  bottom: 89.78%;
+  left: 91.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.th-2-icon3 {
+  position: absolute;
+  top: 191px;
+  left: 26px;
+  width: 326px;
+  height: 244px;
+  object-fit: cover;
+}
+.chp-nh-mt-trc-item {
+  position: absolute;
+  top: 165px;
+  left: 0;
+  width: 42px;
+  height: 40px;
+}
+.chp-nh-mt-trc-child1,
+.chp-nh-mt-trc-child2,
+.chp-nh-mt-trc-inner {
+  position: absolute;
+  top: 420px;
+  left: 333px;
+  width: 42px;
+  height: 40px;
+}
+.chp-nh-mt-trc-child1,
+.chp-nh-mt-trc-child2 {
+  top: 164px;
+}
+.chp-nh-mt-trc-child2 {
+  top: 420px;
+  left: 0;
+}
+.mt-trc {
+  margin: 0;
+}
+.mt-trc-cn-container,
+.vui-lng-chp2 {
+  position: absolute;
+  top: 52px;
+  left: 70px;
+  display: inline-block;
+  width: 233px;
+  height: 55px;
+}
+.vui-lng-chp2 {
+  top: 113px;
+  left: 0;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  width: 375px;
+  height: 49px;
+}
+.giy-t-cn1 {
+  margin-bottom: 0;
+}
+.giy-t-cn-hn-s-dng-khng1 {
+  margin: 0;
+  padding-left: var(--padding-mid);
+}
+.lu-giy-container1 {
+  position: absolute;
+  top: 486px;
+  left: 0;
+  font-size: var(--font-inherit);
+  font-weight: 500;
+  font-family: var(--font-inherit);
+  text-align: left;
+  display: inline-block;
+  width: 375px;
+  height: 221px;
+}
+.chp-nh-mt-trc-child3 {
+  position: absolute;
+  top: 739px;
+  left: 155px;
+  width: 65px;
+  height: 65px;
+}
+.chp-nh-mt-trc-child4 {
+  position: absolute;
+  top: 749px;
+  left: 165px;
+  width: 45px;
+  height: 45px;
+}
+.border21,
+.cap-icon21 {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border21 {
+  height: 100%;
+  width: 90.43%;
+  top: 0;
+  right: 9.57%;
+  bottom: 0;
+  left: 0;
+  border-radius: 2.67px;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  opacity: 0.35;
+}
+.cap-icon21 {
+  height: 35.29%;
+  width: 5.46%;
+  top: 32.35%;
+  right: 0;
+  bottom: 32.35%;
+  left: 94.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.4;
+}
+.capacity21 {
+  position: absolute;
+  height: 64.71%;
+  width: 73.99%;
+  top: 17.65%;
+  right: 17.79%;
+  bottom: 17.65%;
+  left: 8.22%;
+  border-radius: 1.33px;
+  background-color: var(--color-white);
+}
+.battery21 {
+  position: absolute;
+  height: 25.76%;
+  width: 6.49%;
+  top: 39.39%;
+  right: 3.91%;
+  bottom: 34.85%;
+  left: 89.6%;
+}
+.wifi-icon21 {
+  position: absolute;
+  width: 15.27px;
+  height: 10.97px;
+  top: 39.39%;
+  right: 13%;
+}
+.cellular-connection-icon21 {
+  position: absolute;
+  width: 17px;
+  height: 10.67px;
+  top: 39.39%;
+  right: 20%;
+}
+.span24 {
+  letter-spacing: -0.28px;
+}
+.time23 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 7.5px);
+  left: 0;
+  font-weight: 900;
+  display: inline-block;
+}
+.time-style21 {
+  position: absolute;
+  top: 13px;
+  left: 21px;
+  width: 54px;
+  height: 21px;
+}
+.iphone-xstatus-barsstatus-ba42,
+.iphone-xstatus-barsstatus-ba43 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.iphone-xstatus-barsstatus-ba42 {
+  height: 5.42%;
+  right: 0.27%;
+  bottom: 94.58%;
+  left: -0.27%;
+  font-size: var(--font-size-sm);
+}
+.chp-nh-mt-trc {
+  position: absolute;
+  border-radius: var(--br-11xl);
+  background-color: var(--label-color-light-primary);
+  width: 375px;
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+  display: none;
+}
+
+.chp-nh-mt-trc.open{
+  display: flex;
+}

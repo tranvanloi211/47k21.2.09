@@ -1,0 +1,352 @@
+.title-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-teal);
+  width: 375px;
+  height: 72px;
+}
+.group-icon {
+  height: 79.42%;
+  width: 13.6%;
+  top: 4.17%;
+  right: 83.25%;
+  bottom: 16.41%;
+  left: 3.16%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon,
+.title6,
+.title7 {
+  position: absolute;
+}
+.title7 {
+  top: 15px;
+  left: 112px;
+  display: inline-block;
+  width: 139px;
+}
+.title6 {
+  top: 34px;
+  left: 3px;
+  width: 375px;
+  height: 72px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-white);
+}
+.my-carbon-footprint1 {
+  position: absolute;
+  top: 13px;
+  left: 97.5px;
+  line-height: 100%;
+  font-weight: 500;
+}
+.frame-icon,
+.my-carbon-footprint-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 44px;
+  height: 44px;
+}
+.my-carbon-footprint-group {
+  top: 44px;
+  width: 375px;
+  display: none;
+  text-align: center;
+  font-size: var(--tremor-title-size);
+  color: var(--color-text);
+}
+.home-indicator4 {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 66.5px);
+  border-radius: var(--br-81xl);
+  background-color: var(--label-color-light-primary);
+  width: 134px;
+  height: 5px;
+}
+.edit-profile-child,
+.homeindicator4 {
+  position: absolute;
+  top: 778px;
+  left: 0;
+  width: 375px;
+  height: 34px;
+}
+.edit-profile-child {
+  top: 94px;
+  left: -1px;
+  border-radius: var(--br-21xl) var(--br-21xl) 0 0;
+  background-color: var(--color-white);
+  height: 721px;
+}
+.edit-profile-item {
+  position: absolute;
+  top: 33px;
+  left: 52px;
+  width: 327px;
+  height: 72px;
+}
+.cp-nht-thng1 {
+  position: absolute;
+  top: 115px;
+  left: 17px;
+  font-size: var(--font-size-5xl);
+  line-height: 100%;
+  font-weight: 600;
+}
+.h-s {
+  position: relative;
+  letter-spacing: 0.06em;
+  line-height: 145%;
+  text-transform: uppercase;
+}
+.h-s-wrapper {
+  background-color: #fafafa;
+  width: 375px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-sm);
+  color: #6f6f6f;
+}
+.user-square-icon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.h-v-tn {
+  position: relative;
+  line-height: 120%;
+  font-weight: 500;
+}
+.frame-parent2,
+.user-square-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.user-square-parent {
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.frame-parent2 {
+  width: 343px;
+  justify-content: space-between;
+}
+.frame-wrapper,
+.frame-wrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper {
+  justify-content: center;
+}
+.calendar-todo-line-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.edit-profile-inner,
+.frame-parent1 {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent1 {
+  top: 164px;
+  left: -1px;
+  align-items: center;
+  gap: var(--gap-base);
+}
+.edit-profile-inner {
+  top: 302px;
+  left: 19px;
+  align-items: flex-start;
+}
+.chatgmailcom {
+  position: relative;
+  font-size: var(--font-size-smi);
+  line-height: 120%;
+  color: var(--color-darkslategray-300);
+}
+.edit-profile-inner1 {
+  position: absolute;
+  top: 338px;
+  left: 17px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.mobile-icon {
+  position: relative;
+  width: 20px;
+  height: 21.5px;
+}
+.edit-profile-inner2 {
+  position: absolute;
+  top: 380px;
+  left: 17px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.navigation-icon1 {
+  position: absolute;
+  top: 711px;
+  left: 9px;
+  width: 358px;
+  height: 83px;
+}
+.label9 {
+  position: relative;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+}
+.button2 {
+  position: absolute;
+  top: 604px;
+  left: calc(50% - 171.5px);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-goldenrod);
+  width: 343px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-smi) var(--padding-xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--font-size-mid);
+  color: var(--label-color-light-primary);
+}
+.border5,
+.cap-icon5 {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border5 {
+  height: 100%;
+  width: 90.43%;
+  top: 0;
+  right: 9.57%;
+  bottom: 0;
+  left: 0;
+  border-radius: 2.67px;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  opacity: 0.35;
+}
+.cap-icon5 {
+  height: 35.29%;
+  width: 5.46%;
+  top: 32.35%;
+  right: 0;
+  bottom: 32.35%;
+  left: 94.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.4;
+}
+.capacity5 {
+  position: absolute;
+  height: 64.71%;
+  width: 73.99%;
+  top: 17.65%;
+  right: 17.79%;
+  bottom: 17.65%;
+  left: 8.22%;
+  border-radius: 1.33px;
+  background-color: var(--color-white);
+}
+.battery5 {
+  position: absolute;
+  height: 25.76%;
+  width: 6.49%;
+  top: 39.39%;
+  right: 3.91%;
+  bottom: 34.85%;
+  left: 89.6%;
+}
+.wifi-icon5 {
+  position: absolute;
+  width: 15.27px;
+  height: 10.97px;
+  top: 39.39%;
+  right: 13%;
+}
+.cellular-connection-icon5 {
+  position: absolute;
+  width: 17px;
+  height: 10.67px;
+  top: 39.39%;
+  right: 20%;
+}
+.span5 {
+  letter-spacing: -0.28px;
+}
+.time5 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 7.5px);
+  left: 0;
+  font-weight: 900;
+  display: inline-block;
+}
+.time-style5 {
+  position: absolute;
+  top: 13px;
+  left: 21px;
+  width: 54px;
+  height: 21px;
+}
+.iphone-xstatus-barsstatus-ba10,
+.iphone-xstatus-barsstatus-ba11 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.iphone-xstatus-barsstatus-ba10 {
+  height: 5.42%;
+  right: 0.27%;
+  bottom: 94.58%;
+  left: -0.27%;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.edit-profile {
+  position: absolute;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-teal);
+  width: 375px;
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-100);
+  font-family: var(--font-poppins);
+  display: none;
+}
+
+.edit-profile.open{
+  display: flex;
+}

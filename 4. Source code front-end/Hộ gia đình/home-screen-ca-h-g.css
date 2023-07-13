@@ -1,0 +1,466 @@
+.navigation-icon6 {
+  position: absolute;
+  top: 722px;
+  left: 8px;
+  width: 358px;
+  height: 83px;
+}
+.antons-demeron-post-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #fcfcfc;
+  box-shadow: 0 4px 4px 1px rgba(0, 0, 0, 0.35);
+  width: 340px;
+  height: 403px;
+}
+.pht-tc {
+  position: absolute;
+  top: 49px;
+  left: 97px;
+  display: inline-block;
+  width: 77px;
+  height: 15.43px;
+}
+.more-icon {
+  position: absolute;
+  height: 1.46%;
+  width: 7.02%;
+  top: 3.96%;
+  right: 13.46%;
+  bottom: 94.58%;
+  left: 79.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.label23 {
+  position: relative;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+}
+.button9 {
+  position: absolute;
+  top: 350.54px;
+  left: 205px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-teal);
+  width: 110px;
+  height: 41.15px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-smi) var(--padding-xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--font-size-mid);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.antons-account-child,
+.minh-hi {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 60px;
+  height: 61.72px;
+}
+.minh-hi {
+  top: 12.34px;
+  left: 76px;
+  font-weight: 600;
+  display: inline-block;
+  width: 64px;
+  height: 18.52px;
+}
+.antons-account {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 140px;
+  height: 61.72px;
+}
+.union-icon2 {
+  position: relative;
+  width: 54.63px;
+  height: 55.55px;
+  top: 3px;
+  left: 3px;
+}
+.antons-account-parent {
+  position: absolute;
+  top: 12px;
+  left: 28px;
+  width: 140px;
+  height: 61.72px;
+  font-size: var(--font-size-mini);
+  color: var(--label-color-light-primary);
+}
+.image-14-icon1 {
+  position: absolute;
+  top: 209px;
+  left: 28px;
+  width: 282px;
+  height: 136px;
+  object-fit: cover;
+}
+.antons-demeron-post {
+  position: absolute;
+  top: 306px;
+  left: 18px;
+  width: 340px;
+  height: 403px;
+  font-size: var(--tremor-chart-axis-size);
+  color: var(--color-darkgray);
+  font-family: var(--tremor-title);
+}
+.label24 {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-mini);
+  line-height: 20px;
+  font-family: var(--font-poppins);
+  color: var(--color-body);
+  text-align: left;
+}
+.left-content9 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-base) var(--padding-sm) 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.sf-symbol-xmarkcirclefill3 {
+  position: relative;
+  width: 17px;
+  height: 17px;
+}
+.close-button6,
+.content10 {
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.close-button6 {
+  display: none;
+  padding: 0 var(--padding-base) 0 0;
+  align-items: flex-start;
+}
+.content10 {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  gap: var(--gap-5xs);
+}
+.union-icon3 {
+  position: relative;
+  width: 0;
+  height: 0;
+  object-fit: cover;
+}
+.email4 {
+  position: absolute;
+  top: -0.5px;
+  left: -0.5px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-border);
+  box-sizing: border-box;
+  width: 288px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 0 var(--padding-base);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.hg-dang-bai {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 246px;
+  left: 77px;
+  width: 287px;
+  height: 48px;
+}
+.union-icon4 {
+  position: relative;
+  width: 54.68px;
+  height: 54.55px;
+}
+.khich-le-child1,
+.nh1-1-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 340px;
+  height: 106px;
+}
+.nh1-1-icon3 {
+  object-fit: cover;
+}
+.khich-le-child1 {
+  background-color: var(--color-teal-100);
+}
+.hy-gip-container3 {
+  position: absolute;
+  top: 14px;
+  left: 21px;
+  line-height: 20px;
+  display: inline-block;
+  width: 308px;
+  height: 77.58px;
+}
+.khich-le3 {
+  position: absolute;
+  top: 106px;
+  left: 16px;
+  width: 340px;
+  height: 106px;
+  font-size: var(--font-size-mini);
+}
+.group-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-teal);
+  width: 375px;
+  height: 72px;
+}
+.group-child7 {
+  position: absolute;
+  height: 79.42%;
+  width: 13.6%;
+  top: 7.94%;
+  right: 83.25%;
+  bottom: 12.64%;
+  left: 3.16%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.title14 {
+  position: absolute;
+  top: 19px;
+  left: 112px;
+  display: inline-block;
+  width: 139px;
+}
+.group-child8,
+.rectangle-parent4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 72px;
+}
+.group-child8 {
+  background-color: var(--color-teal);
+  height: 98px;
+}
+.group-child9 {
+  position: absolute;
+  height: 58.35%;
+  width: 13.6%;
+  top: 37.76%;
+  right: 82.67%;
+  bottom: 3.89%;
+  left: 3.73%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.title15 {
+  position: absolute;
+  top: 49px;
+  left: 112px;
+  display: inline-block;
+  width: 139px;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 98px;
+}
+.ba-cm-yu {
+  margin: 0;
+}
+.ba-cm-yu-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.ba-cm-yu-container {
+  position: absolute;
+  top: 442px;
+  left: 46px;
+  font-size: 11px;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  font-weight: 500;
+  color: var(--label-color-light-primary);
+  display: flex;
+  align-items: center;
+  width: 282px;
+  height: 52px;
+}
+.border13,
+.cap-icon13 {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border13 {
+  height: 100%;
+  width: 90.43%;
+  top: 0;
+  right: 9.57%;
+  bottom: 0;
+  left: 0;
+  border-radius: 2.67px;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  opacity: 0.35;
+}
+.cap-icon13 {
+  height: 35.29%;
+  width: 5.46%;
+  top: 32.35%;
+  right: 0;
+  bottom: 32.35%;
+  left: 94.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.4;
+}
+.capacity13 {
+  position: absolute;
+  height: 64.71%;
+  width: 73.99%;
+  top: 17.65%;
+  right: 17.79%;
+  bottom: 17.65%;
+  left: 8.22%;
+  border-radius: 1.33px;
+  background-color: var(--color-white);
+}
+.battery13 {
+  position: absolute;
+  height: 25.76%;
+  width: 6.49%;
+  top: 39.39%;
+  right: 3.91%;
+  bottom: 34.85%;
+  left: 89.6%;
+}
+.wifi-icon13 {
+  position: absolute;
+  width: 15.27px;
+  height: 10.97px;
+  top: 39.39%;
+  right: 13%;
+}
+.cellular-connection-icon13 {
+  position: absolute;
+  width: 17px;
+  height: 10.67px;
+  top: 39.39%;
+  right: 20%;
+}
+.span14 {
+  letter-spacing: -0.28px;
+}
+.time15 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 7.5px);
+  left: 0;
+  font-weight: 900;
+  display: inline-block;
+}
+.time-style13 {
+  position: absolute;
+  top: 13px;
+  left: 21px;
+  width: 54px;
+  height: 21px;
+}
+.iphone-xstatus-barsstatus-ba26,
+.iphone-xstatus-barsstatus-ba27 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.iphone-xstatus-barsstatus-ba26 {
+  height: 5.42%;
+  top: 0.12%;
+  bottom: 94.46%;
+  text-align: center;
+  font-size: var(--font-size-sm);
+}
+.home-screen-ca-hg {
+  position: absolute;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 375px;
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+  display: none;
+}
+
+.home-screen-ca-hg.open{
+  display: flex;
+}
+
+.hgd-dangbai{
+  height: 54.68px;
+  width: 54.68px;
+  top: 242px;
+  left: 20px;
+  position: absolute;
+}
+
+.chungnhan{
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  top: 740px;
+  left: 46px;
+}
+
+.thongke{
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  top: 740px;
+  left: 101.34px;
+}
+
+.taikhoan{
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  top: 740px;
+  left: 237.79px;
+}
+
+.thongbao{
+  width: 33px;
+  height: 33px;
+  position: absolute;
+  top: 740px;
+  left: 306.5px;
+}

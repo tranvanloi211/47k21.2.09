@@ -1,0 +1,214 @@
+.my-carbon-footprint1 {
+  position: absolute;
+  top: 13px;
+  left: 97.5px;
+  line-height: 100%;
+  font-weight: 500;
+}
+.frame-child42,
+.my-carbon-footprint-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 44px;
+  height: 44px;
+}
+.my-carbon-footprint-group {
+  top: 44px;
+  width: 375px;
+  display: none;
+  text-align: center;
+  font-size: var(--tremor-title-size);
+  color: var(--color-text);
+}
+.home-indicator4 {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 66.5px);
+  border-radius: var(--br-81xl);
+  background-color: var(--default-color-black);
+  width: 134px;
+  height: 5px;
+}
+.edit-profile-child,
+.homeindicator4 {
+  position: absolute;
+  top: 778px;
+  left: 0;
+  width: 375px;
+  height: 34px;
+}
+.edit-profile-child {
+  top: 115px;
+  border-radius: var(--br-21xl) var(--br-21xl) 0 0;
+  background-color: var(--grayscale-white);
+  height: 697px;
+}
+.edit-profile-item {
+  position: absolute;
+  top: 34px;
+  left: 52px;
+  border-radius: var(--br-11xl);
+  width: 327px;
+  height: 72px;
+}
+.cp-nht-thng1 {
+  position: absolute;
+  top: 130px;
+  left: 22px;
+  font-size: var(--font-size-5xl);
+  line-height: 100%;
+  font-weight: 600;
+}
+.h-s {
+  position: relative;
+  letter-spacing: 0.06em;
+  line-height: 145%;
+  text-transform: uppercase;
+}
+.h-s-wrapper {
+  background-color: #fafafa;
+  width: 375px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-base);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-sm);
+  color: #6f6f6f;
+}
+.user-square-icon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.h-v-tn {
+  position: relative;
+  line-height: 120%;
+  font-weight: 500;
+}
+.frame-parent5,
+.user-square-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.user-square-parent {
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.frame-parent5 {
+  width: 343px;
+  justify-content: space-between;
+}
+.frame-wrapper1,
+.frame-wrapper2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper1 {
+  justify-content: center;
+}
+.calendar-todo-line-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.edit-profile-inner,
+.frame-parent4 {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent4 {
+  top: 174px;
+  left: 3px;
+  align-items: center;
+  gap: var(--gap-base);
+}
+.edit-profile-inner {
+  top: 302px;
+  left: 19px;
+  align-items: flex-start;
+}
+.chatgmailcom {
+  position: relative;
+  font-size: var(--font-size-smi);
+  line-height: 120%;
+  color: var(--color-darkslategray-200);
+}
+.edit-profile-inner1 {
+  position: absolute;
+  top: 338px;
+  left: 17px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.mobile-icon {
+  position: relative;
+  width: 20px;
+  height: 21.5px;
+}
+.edit-profile-inner2 {
+  position: absolute;
+  top: 380px;
+  left: 17px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.navigation-icon1 {
+  position: absolute;
+  top: 711px;
+  left: 9px;
+  width: 358px;
+  height: 83px;
+}
+.label9 {
+  position: relative;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+}
+.button2 {
+  position: absolute;
+  top: 604px;
+  left: calc(50% - 171.5px);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-goldenrod);
+  width: 343px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-smi) var(--padding-xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--font-size-mid);
+  color: var(--default-color-black);
+}
+.edit-profile {
+  position: absolute;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-teal-100);
+  width: 375px;
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-100);
+  font-family: var(--font-poppins);
+  display: none;
+}
+
+.edit-profile.open{
+  display: flex;
+}
